@@ -11,22 +11,19 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 **Проект 1: Тестирование веб-сайта "Собаседник" / https://guru.qahacking.ru/**
 
 **Что проверялось:**  
-- Функциональность: формы авторизации, корзина.  
-- UI: адаптивность, цветовая схема, шрифты.  
-- DevTools: анализ ошибок Console/Network.
+- Функциональность: формы регистрации, корзина, оформление заказа.  
+- UI: адаптивность, корректность отображения изображений, кликабельность.
+- DevTools: анализ ошибок Console / Network.
 
 **Инструменты:**
+- Excel
 - Chrome DevTools
 - Postman
 - TestRail
 - Jira
 
 **Структура проекта:**
-/website-testing
 ├── checklist.xlsx
-├── test-cases/
-├── bug-reports/
-└── devtools-analysis.md
 
 **Найденные баги**: [Список с описанием](ссылка на файл или раздел ниже).  
 
