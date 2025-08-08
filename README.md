@@ -23,7 +23,8 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Jira
 
 **Структура проекта:**
-- Чек-лист [docs/checklist.xlsx]
+- Чек-лист [Manual-QA-Testing-Projects/docs
+/checklist.xlsx]
 
 **Найденные баги**: [Список с описанием](ссылка на файл или раздел ниже).  
 
