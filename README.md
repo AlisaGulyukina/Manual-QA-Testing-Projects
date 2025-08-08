@@ -23,7 +23,7 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Jira
 
 **Структура проекта:**
-├── checklist.xlsx
+checklist.xlsx
 
 **Найденные баги**: [Список с описанием](ссылка на файл или раздел ниже).  
 
