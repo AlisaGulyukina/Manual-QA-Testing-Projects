@@ -6,7 +6,8 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Чек-листы  
 - Тест-кейсы  
 - Баг-репорты  
-- Анализ результатов  
+- Анализ результатов
+- Тестовые задания
 
 **Проект 1: Тестирование веб-сайта "Собаседник" / https://guru.qahacking.ru/**
 
@@ -28,3 +29,8 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Тест-кейс
 - Баг-репорты
 - Анализ результатов
+
+**Проект 2: Тестирование функциональности поиска и фильтрации товаров по параметрам (тестовое задание)**
+
+- Задание [docs/task MoiSklad.pdf]
+- Чек-лист [docs/checklist MoiSklad.pdf]
