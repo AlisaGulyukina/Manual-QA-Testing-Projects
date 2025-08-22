@@ -32,5 +32,5 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 
 **Проект 2: Тестирование функциональности поиска и фильтрации товаров по параметрам (тестовое задание)**
 
-- Задание [docs/task MoiSklad.pdf]
-- Чек-лист [docs/checklist MoiSklad.pdf]
+- Задание [[docs/task MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/task%20MoiSklad.pdf)]
+- Чек-лист [[docs/checklist MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20MoiSklad.pdf)]
