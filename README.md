@@ -52,4 +52,4 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 
 **Структура проекта:**
 - Задание [[docs/task MATBEA.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/task%20MATBEA.pdf)]
-- Чек-лист [[docs/checklists and bug reports MATBEA.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklists%20and%20bug%20reports%20MATBEA.xlsx)]
+- Чек-лист и баг-репорты [[docs/checklists and bug reports MATBEA.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklists%20and%20bug%20reports%20MATBEA.xlsx)]
