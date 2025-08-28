@@ -23,7 +23,7 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Jira
 
 **Структура проекта:**
-- Чек-лист [https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20Sobasednik.xlsx]
+- Чек-лист [[docs/checklist%20Sobasednik.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20Sobasednik.xlsx).]
 - Тест-кейсы
 - Баг-репорты
 - Анализ результатов
