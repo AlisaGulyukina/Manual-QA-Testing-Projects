@@ -7,7 +7,6 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Тест-кейсы  
 - Баг-репорты  
 - Анализ результатов
-- Тестовые задания
 
 **Проект 1: Тестирование веб-сайта "Собаседник" / https://guru.qahacking.ru/**
 
@@ -24,13 +23,20 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Jira
 
 **Структура проекта:**
-- Чек-лист [[Manual-QA-Testing-Projects/docs
-/checklist.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist.xlsx)]
-- Тест-кейс
+- Чек-лист [https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20Sobasednik.xlsx]
+- Тест-кейсы
 - Баг-репорты
 - Анализ результатов
 
 **Проект 2: Тестирование функциональности поиска и фильтрации товаров по параметрам (тестовое задание)**
 
+**Что проверялось:**  
+- Функциональность: поиск товаров по параметрам, кнопки взаимодействия, комбинированный поиск, пагинация.  
+- UI: валидация полей ввода, работа выпадающего списка, отображение результатов.
+
+**Инструменты:**
+- Excel
+
+**Структура проекта:**
 - Задание [[docs/task MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/task%20MoiSklad.pdf)]
 - Чек-лист [[docs/checklist MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20MoiSklad.pdf)]
