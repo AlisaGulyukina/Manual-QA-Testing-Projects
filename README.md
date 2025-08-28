@@ -40,3 +40,16 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 **Структура проекта:**
 - Задание [[docs/task MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/task%20MoiSklad.pdf)]
 - Чек-лист [[docs/checklist MoiSklad.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20MoiSklad.pdf)]
+
+**Проект 3: Тестирование функционала авторизации и безопасности на сайте Matbea.com (тестовое задание)**
+
+**Что проверялось:**  
+- Функциональность: регистрация нового пользователя, авторизация, восстановление пароля, безопасность.
+- UI: валидация полей в реальном времени, адаптивность форм, навигация.
+
+**Инструменты:**
+- Excel
+
+**Структура проекта:**
+- Задание [https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/task%20MATBEA.pdf]
+- Чек-лист [https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklists%20and%20bug%20reports%20MATBEA.xlsx]
