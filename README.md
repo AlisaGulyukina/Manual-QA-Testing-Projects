@@ -26,7 +26,7 @@ by Alisa Gulyukina - https://github.com/AlisaGulyukina
 - Чек-лист [[docs/checklist%20Sobasednik.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/checklist%20Sobasednik.xlsx)]
 - Тест-кейсы [[docs/test cases Sobasednik.xlsx](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/test%20cases%20Sobasednik.xlsx)]
 - Баг-репорты [[docs/bug_reports Sobasednik.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/bug_reports%20Sobasednik.pdf)]
-- Анализ результатов
+- Анализ результатов [[docs/report Sobasednik.pdf](https://github.com/AlisaGulyukina/Manual-QA-Testing-Projects/blob/main/docs/report%20Sobasednik.pdf)]
 
 **Проект 2: Тестирование функциональности поиска и фильтрации товаров по параметрам (тестовое задание)**
 
